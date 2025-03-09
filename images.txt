@@ -7,3 +7,4 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio
+ubuntu:22.04
